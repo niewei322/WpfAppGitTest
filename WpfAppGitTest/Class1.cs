@@ -10,5 +10,6 @@ namespace WpfAppGitTest
     {
         string ff = "";
         string zhi = "value";
+        int ff22 = 0;
     }
 }
