@@ -8,6 +8,7 @@ namespace WpfAppGitTest
 {
     class Class1
     {
+        string ff = "";
         string zhi = "value";
     }
 }
