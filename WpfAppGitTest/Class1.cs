@@ -13,5 +13,6 @@ namespace WpfAppGitTest
         int ff22 = 0;
         string TestConflict = "";
 string ddf="";
+        int yy = 0;
     }
 }
